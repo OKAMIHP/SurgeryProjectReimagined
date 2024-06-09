@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5c533f-70f1-4fcd-ac74-e7dc256d8057" name="Changes" comment="" />
+    <list default="true" id="ce5c533f-70f1-4fcd-ac74-e7dc256d8057" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BodyPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BodyPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Brain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bran.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bran.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Foot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Foot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Head.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Head.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Heart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kidney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kidney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Liver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Liver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowerIntestine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowerIntestine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RightArm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RightArm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Torso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Torso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WelcomeScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WelcomeScreen.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,22 +44,41 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2hcnWStYPFHsY60o15T7YVBjGdy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/haddr/IdeaProjects/Surgery Project Reimagined/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/haddr/IdeaProjects/Surgery Project Reimagined/images/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\haddr\IdeaProjects\Surgery Project Reimagined\Images" />
+      <recent name="C:\Users\haddr\IdeaProjects\Surgery Project Reimagined\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717902264496</updated>
-      <workItem from="1717902265494" duration="1000" />
+      <workItem from="1717902265494" duration="7380000" />
     </task>
     <servers />
   </component>
@@ -50,7 +99,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <line>12</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
